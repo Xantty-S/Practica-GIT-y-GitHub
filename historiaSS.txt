@@ -1,5 +1,7 @@
 SZ BRO, esta es mi historia
 
-Santiago Silva Arango, 19 años, Colombiano, Desarrollador en potencia.
+Santiago Silva Arango, 19 anios, Colombiano, Desarrollador en potencia.
 
 Aprendiendo GIT.
+
+Trabaja en XpertGroup.
